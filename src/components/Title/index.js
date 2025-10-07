@@ -33,7 +33,7 @@ function Title(props) {
 					drag={props.interactive}
 					dragConstraints={dragRef}
 				>
-					Student, Developer & Learner
+					QA Engineer, Developer & Learner
 				</motion.h4>
 			</div>
 			<motion.img
