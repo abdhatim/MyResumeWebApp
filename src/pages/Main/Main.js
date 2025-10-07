@@ -5,7 +5,6 @@ import Navbar from "../../components/Navbar/Navbar";
 import Title from "../../components/Title";
 import About from "../../sections/About";
 import Contact from "../../sections/Contact";
-import Projects from "../../sections/Projects";
 import Skills from "../../sections/Skills";
 
 const Main = () => {
@@ -41,8 +40,6 @@ const Main = () => {
 				{/* <Experience interactive={interactive} />
 					<Divider /> */}
 				<Skills interactive={interactive} />
-				<Divider />
-				<Projects interactive={interactive} />
 				<Divider />
 				<Contact interactive={interactive} />
 			</Container>
