@@ -97,4 +97,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ---
 
-Feel free to customize the URLs, technology names, and any other details to fit your project’s specifics.

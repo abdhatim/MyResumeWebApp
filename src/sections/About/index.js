@@ -35,25 +35,34 @@ function About(props) {
 								<span className="blue-color">
 									Abdelrahman Sakr
 								</span>
-								, currently a 5th semester student in{" "}
+								, a dedicated{" "}
+								<span className="blue-color">
+									QA Engineer
+								</span>{" "}
+								and final-year Software Engineering student at{" "}
 								<span className="blue-color">
 									University of Duisburg Essen
 								</span>
-								. From very early on in my life, I have been
-								interested in technology and computers. Hence, I
-								am currently pursuing this interest as a
-								Computer Science student. <br /> <br />
-								My technical interests know no bounds! I am good
-								at{" "}
+								. With a passion for technology that began early
+								in my life, I have developed expertise that
+								bridges both quality assurance and software
+								development. <br /> <br />
+								I am proficient in{" "}
 								<span className="blue-color">
-									Frontend Development, Competititve
-									Programming
+									full-stack application development
 								</span>
-								, also experienced in{" "}
+								, comprehensive{" "}
 								<span className="blue-color">
-									App Development and Backend Development
+									QA methodologies and testing strategies
 								</span>
-								.
+								, and{" "}
+								<span className="blue-color">
+									test automation frameworks
+								</span>
+								. My technical versatility spans multiple
+								programming languages and tools, enabling me to
+								deliver high-quality software solutions from
+								concept to deployment.
 							</motion.p>
 							<div className="btn-container">
 								<Link
